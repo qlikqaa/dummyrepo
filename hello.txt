@@ -1,1 +1,1 @@
-Test Message - wdvxy
+Test Message - myvar
